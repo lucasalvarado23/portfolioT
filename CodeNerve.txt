@@ -2,11 +2,7 @@
 <span id="a">lucasalvarado@portfolio</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->myInformation.txt<br/><br/>
 
 Hey There! thank you for checking out my portfolio<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can learn more about me and download my resume in just a few clicks.</p>
-<p>My Name is Lucas Alvarado, I am a web developer with over 3 Years of Experience. I specialize in HTML, CSS, Bootstrap, Bulma CSS, Wordpress, Woocomerce, Javascript, PHP, Jquery, MySQL, and More.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p>
-
-<br><br><p>My top 5 Projects I have worked for are <a href="link"> Here you go</a>.</p>
-
+<p>My Name is Lucas Alvarado, I am a web developer with over 3 Years of Experience. I specialize in HTML, CSS, Bootstrap, Bulma CSS, Wordpress, Woocomerce, Javascript, PHP, Jquery, MySQL, and More.</p> 
 
 <p> If you will like to know more about things I have built, worked in, and my personal life, check out my social medias.: <br> <a href="https://www.linkedin.com/in/lalvarado92/" target="_blank">Linkedin</a> <br> <a href="https://github.com/lucasalvarado23" target="_blank">Github</a> <br> <a href="https://www.instagram.com/lucaselpibot/" target="_blank">Instagram</a> and <br> <a href="https://www.facebook.com/lucaselpibot" target="_blank">Facebook</a>.</p>
 

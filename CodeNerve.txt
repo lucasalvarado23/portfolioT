@@ -2,7 +2,7 @@
 <span id="a">lucasalvarado@portfolio</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->myInformation.txt<br/><br/>
 
 Hey There! thank you for checking out my portfolio<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can learn more about me and download my resume in just a few clicks.</p>
-<p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p>My Name is Lucas Alvarado, I am a web developer with over 3 Years of Experience. I specialize in HTML, CSS, Bootstrap, Bulma CSS, Wordpress, Woocomerce, Javascript, PHP, Jquery, MySQL, and More.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>

@@ -42,3 +42,9 @@ a {
     	50% { color:  #0f0; }
     	99% { color: black; }
 }
+
+@media only screen and (man-width: 768px) {
+  p {
+	  font-size: 18px;
+	}
+} 

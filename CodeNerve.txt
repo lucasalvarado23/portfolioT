@@ -1,5 +1,5 @@
-<span id="a">code@nerve</span>:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
-<span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
+<span id="a">lucasalvarado@portfolio</span>:<span id="b">~</span><span id="c">$</span> cd lucas/<!-- kjsdfhkjdhsfkjdshfkj -->About_me
+<span id="a">lucasalvarado@portfolio</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->myInformation.txt<br/><br/>
 
 Hey There! thank you for checking out my portfolio<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can learn more about me and download my resume in just a few clicks.</p>
 <p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->

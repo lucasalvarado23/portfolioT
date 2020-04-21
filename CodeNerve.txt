@@ -6,6 +6,6 @@ Hey There! thank you for checking out my portfolio<!-- laglaglaglaglaglaglaglagl
 
 <p> If you will like to know more about things I have built, worked in, and my personal life, check out my social medias.: <br> <a href="https://www.linkedin.com/in/lalvarado92/" target="_blank">Linkedin</a> <br> <a href="https://github.com/lucasalvarado23" target="_blank">Github</a> <br> <a href="https://www.instagram.com/lucaselpibot/" target="_blank">Instagram</a> and <br> <a href="https://www.facebook.com/lucaselpibot" target="_blank">Facebook</a>.</p>
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="mailto:lucasalvarado23@gmail.com">lucasalvarado23@gmail.com</a>.
+If you will like to contact me, feel free to send me an email at <a href="mailto:lucasalvarado23@gmail.com">lucasalvarado23@gmail.com</a>.
 
 <p>Have a great day!</p>
